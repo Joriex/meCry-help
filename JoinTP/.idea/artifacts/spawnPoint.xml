@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="spawnPoint">
+    <output-path>$PROJECT_DIR$/../../sao_plugin/minecraft_server/spigot server/plugins</output-path>
+    <root id="archive" name="spawnPoint.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/JoinTP/src/main/resources/plugin.yml" />
+      <element id="module-output" name="JoinTP" />
+    </root>
+  </artifact>
+</component>
