@@ -1,3 +1,6 @@
+// Beispiel für einee Config
+
+
 host: sql7.freemysqlhosting.net
 port: 3306
 db: sql7619643

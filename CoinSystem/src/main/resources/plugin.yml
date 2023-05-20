@@ -1,0 +1,6 @@
+name: CoinSystem
+version: '${project.version}'
+main: mecry.joriex.coinsystem.CoinSystem
+api-version: 1.19
+commands:
+  coins:
